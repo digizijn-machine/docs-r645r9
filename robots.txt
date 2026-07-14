@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-f3mi6v.amomcp.ru/sitemap.xml
